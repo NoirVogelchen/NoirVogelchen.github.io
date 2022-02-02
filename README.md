@@ -1,5 +1,5 @@
-Download all files
-Unzip if needed
-Drag and drop the index.html into any browser
+Download all files<br>
+Unzip if needed<br>
+Drag and drop the index.html into any browser<br>
 
 
